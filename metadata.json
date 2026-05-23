@@ -1,0 +1,6 @@
+{
+  "name": "Resina Design",
+  "description": "Ferramenta gratuita para profissionais de resina criarem artes e chaveiros em tamanho real de impressão A4 com moldes vazados, textos curvados e réguas precisas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
